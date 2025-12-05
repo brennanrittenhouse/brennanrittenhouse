@@ -8,9 +8,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;🏫 University of Guelph Writer's Association<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;🏫 University of Guelph Poet's Society<br/>
 <br/>
+👨‍💻 Forensic Technology Intern at KPMG Canada (May 2025 - December 2025)<br/>
 <br/>
-👨‍💻 Forensic Technology Intern at KPMG Canada<br/>
-<br/>
+👨‍🔧 Seeking Summer 2026 Internships
 <br/>
 
 
