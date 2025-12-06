@@ -32,7 +32,7 @@
 <br/>
 <br/>
 📚 In-Progress Technical Courses & Certifications<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;📚 Cisco Netowrking Academy HTML5 Certification<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;📚 Cisco Networking Academy HTML5 Certification<br/>
     
 
 
