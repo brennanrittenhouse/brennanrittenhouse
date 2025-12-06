@@ -19,15 +19,21 @@
 
 <br/>
 <br/>
-📚 Completed Technical Courses<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Intro to Programming<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Discrete Structures (I & II)<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Intermediate Programming<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Structure/Applications of Microcomputers<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Object-Oriented Programming<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Data Structures<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Software System Development & Integration<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;📚 Analysis & Design of Computer Algorithms<br/>
+🎓 Completed Technical Courses<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Intro to Programming<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Discrete Structures (I & II)<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Intermediate Programming<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Structure/Applications of Microcomputers<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Object-Oriented Programming<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Structures<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Software System Development & Integration<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎓 Analysis & Design of Computer Algorithms<br/>
+
+<br/>
+<br/>
+📚 In-Progress Technical Courses & Certifications<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;📚 Cisco Netowrking Academy HTML5 Certification<br/>
+    
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
